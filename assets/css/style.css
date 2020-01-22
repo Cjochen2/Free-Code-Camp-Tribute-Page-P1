@@ -25,5 +25,13 @@ li {
 }
 
 .content-column {
-    max-width: 700px;
+    max-width: 650px;
+}
+
+.list-header {
+    font-size: 1.17rem;
+}
+
+footer {
+    font-size: 1.4rem;
 }
