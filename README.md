@@ -1,6 +1,6 @@
 # Free-Code-Camp-Tribute-Page-P1
 
-I have been slowly working through the FreeCodeCamp curriculum. This is project 1 of 5 for the HTML CSS portion.
+I have been slowly working through the FreeCodeCamp curriculum. This is project 1 of 5 for the HTML CSS Responsive Web Project portion.
 
 The task was to build a responsive web page that met the following requirements:
 
